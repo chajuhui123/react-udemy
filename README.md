@@ -1,2 +1,2 @@
 # React-Udemy
-Udemy React 강의 실습 자료...
+Udemy React 강의 실습 자료
